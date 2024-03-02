@@ -1,0 +1,2 @@
+python3 -m venv ~/.CI_CD_pipeline
+source ~/.CI_CD_pipeline/bin/activate
