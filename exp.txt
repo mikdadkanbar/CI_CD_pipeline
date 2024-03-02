@@ -1,2 +1,6 @@
 python3 -m venv ~/.CI_CD_pipeline
 source ~/.CI_CD_pipeline/bin/activate
+
+
+token : 
+cw74avdsmewgvdacjv66727pevk6bsesyd7ngvpdnbebhrzcab2q
