@@ -1,2 +1,8 @@
 pylint
 pytest
+Flask
+pandas
+scikit-learn
+joblib
+pylint
+pytest
